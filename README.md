@@ -27,4 +27,7 @@ It is a complete interactive game with score tracking, smart AI logic, and user-
 ---
 
 ## 📁 Project Structure
-
+tic_tac_toe/ 
+├── tic_tac_toe.py           # Main game logic 
+├── README.md                # Project documentation 
+└── .gitignore               # Git ignore file
