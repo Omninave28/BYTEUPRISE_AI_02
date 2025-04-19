@@ -87,8 +87,8 @@ Alice, enter your move (0-8): 0
 
 ## Authors
 
-- [@Om Ninave](https://github.com/Omninave28)
+- Git: [@Om Ninave](https://github.com/Omninave28)
+- Email: ninaveom@gmail.com
+- Linkedin: www.linkedin.com/in/om-ninave-b47568272
 - Intern @BYTEUPRISE
-- ninaveom@gmail.com
-- www.linkedin.com/in/om-ninave-b47568272
 
