@@ -1,8 +1,6 @@
 
 # Tic-Tac-Toe with AI
 
-# 🎮 Tic-Tac-Toe with AI (Minimax Algorithm)
-
 This is a command-line Tic-Tac-Toe game built using Python, featuring two play modes:
 - **Player vs Player**
 - **Player vs AI (Easy or Hard using Minimax Algorithm)**
